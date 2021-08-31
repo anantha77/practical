@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>rab.jpg</ImageUrl>
+    <NavigateUrl>https://www.google.com</NavigateUrl>
+    <AlternateText>No Images Found</AlternateText>
+    <Impressions>2</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>dog.jpg</ImageUrl>
+    <NavigateUrl>https://www.google.com</NavigateUrl>
+    <AlternateText>No Images Found</AlternateText>
+    <Impressions>2</Impressions>
+  </Ad>
+</Advertisements>
+
